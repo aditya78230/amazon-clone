@@ -1,1 +1,1 @@
-# nextjs-amazone-clone
+# nextjs-amazon-clone
